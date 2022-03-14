@@ -1,1 +1,32 @@
-
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>期中內容</title>
+        <style>
+            header, footer{display: red; clear:both; padding:5px; text-align:center}
+            nav {display: red; float: left; width:20%; height:50%; background-color:white; padding:5px}
+            article {display: red; float:right; width:80%; height:50%; background:silver;padding:5px;}
+        </style>
+    </head>
+</html>
+</head>
+<body>
+<header>
+    <h1>期中</h1>
+</header>
+<nav>
+    <ul>
+        <li>
+        <li>
+        <li>
+    </ul>
+</nav>   
+<article>
+    <p>
+    </p>
+</article> 
+<footer>
+    <p></p>
+</footer>
+</body>
+</html>
